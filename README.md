@@ -1,8 +1,7 @@
-# Hi, I'm Kira ✌️
-
 **I build things.** Software, furniture, startups — whatever sparks joy.
-
+```
 CS @ UBC → SWE @ Amazon → now doing my own thing.
+```
 
 🧠 **Think it** → 🎨 **Design it** → 💻 **Build it** → 🚀 **Ship it** → 📈 **Grow it**
 
@@ -11,14 +10,14 @@ That's my loop. I'm a fullstack builder who loves going from a napkin sketch to 
 ### 🌏 Cities that shaped me
 
 ```
-Beijing → Shanghai → Vancouver → Toronto → Tokyo
+Beijing → Shanghai → Vancouver → Tokyo → Toronto
 ```
 
-Five cities, three countries, and a whole lot of different ways to see the world. Living across cultures made me deeply curious, open-minded, and probably way too opinionated about street food in every city.
+Five cities, three countries, and a whole lot of different ways to see the world. Living across cultures made me deeply curious and open-minded. Being able to speak three languages opened up a whole new world for me.
 
 ### 🪵 The wildest thing I did last year
 
-I stepped away from tech to find myself. Ended up in Japan studying **woodworking and traditional Japanese craftsmanship**. Turns out, "finding yourself" sometimes means learning how to debug a mortise-and-tenon joint instead of code. I fell in love with the philosophy — no screws, no shortcuts, just patience and precision.
+I stepped away from tech to find myself. Ended up in Japan studying **woodworking and traditional Japanese craftsmanship**. Turns out, "finding yourself" sometimes means finding joy and love from building and appreciating beauty and elegant things.
 
 I still build furniture on the side. Beauty and elegance aren't just for UI.
 
