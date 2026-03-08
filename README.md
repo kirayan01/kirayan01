@@ -4,13 +4,9 @@
 
 CS @ UBC → SWE @ Amazon → now doing my own thing.
 
----
-
 🧠 **Think it** → 🎨 **Design it** → 💻 **Build it** → 🚀 **Ship it** → 📈 **Grow it**
 
 That's my loop. I'm a fullstack builder who loves going from a napkin sketch to a live product with real users. Product, data, code, growth hacking — I don't like staying in one lane.
-
----
 
 ### 🌏 Cities that shaped me
 
