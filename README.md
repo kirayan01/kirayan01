@@ -1,8 +1,8 @@
+# Hi, I'm Kira 
 **I build things.** Software, furniture, startups — whatever sparks joy.
 ```
 CS @ UBC → SWE @ Amazon → now doing my own thing.
 ```
-
 🧠 **Think it** → 🎨 **Design it** → 💻 **Build it** → 🚀 **Ship it** → 📈 **Grow it**
 
 That's my loop. I'm a fullstack builder who loves going from a napkin sketch to a live product with real users. Product, data, code, growth hacking — I don't like staying in one lane.
@@ -13,7 +13,8 @@ That's my loop. I'm a fullstack builder who loves going from a napkin sketch to 
 Beijing → Shanghai → Vancouver → Tokyo → Toronto
 ```
 
-Five cities, three countries, and a whole lot of different ways to see the world. Living across cultures made me deeply curious and open-minded. Being able to speak three languages opened up a whole new world for me.
+Five cities, three countries, and a whole lot of different ways to see the world. Living across cultures made me deeply curious and open-minded. 
+Being able to speak three languages opened up a whole new world for me.
 
 ### 🪵 The wildest thing I did last year
 
