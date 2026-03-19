@@ -1,11 +1,11 @@
 # Hi, I'm Kira 
 **I build things.** Software, furniture, startups — whatever sparks joy.
 ```
-CS @ UBC → SWE @ Amazon → now doing my own thing.
+CS @ UBC → SWE @ Amazon → now doing my own thing @ ROZO AI.
 ```
 🧠 **Think it** → 🎨 **Design it** → 💻 **Build it** → 🚀 **Ship it** → 📈 **Grow it**
 
-That's my loop. I'm a fullstack builder who loves going from a napkin sketch to a live product with real users. Product, data, code, growth hacking — I don't like staying in one lane.
+That's my loop. I'm a fullstack builder who loves going from an idea to a live product with real users. Product, data, code, growth hacking — I don't like staying in one lane.
 
 ### 🌏 Cities that shaped me
 
@@ -20,7 +20,7 @@ Being able to speak three languages opened up a whole new world for me.
 
 I stepped away from tech to find myself. Ended up in Japan studying **woodworking and traditional Japanese craftsmanship**. Turns out, "finding yourself" sometimes means finding joy and love from building and appreciating beauty and elegant things.
 
-I still build furniture on the side. Beauty and elegance aren't just for UI.
+I still build furniture on the side. Beauty and elegance aren't just for software (huh!).
 
 ### 🛠️ Tech toolbox
 
