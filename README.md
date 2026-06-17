@@ -16,11 +16,9 @@ Beijing → Shanghai → Vancouver → Tokyo → Toronto
 Five cities, three countries, and a whole lot of different ways to see the world. Living across cultures made me deeply curious and open-minded. 
 Being able to speak three languages opened up a whole new world for me.
 
-### 🪵 The wildest thing I did last year
+### 🪵 The unexpected thing I did last year
 
-I stepped away from tech to find myself. Ended up in Japan studying **woodworking and traditional Japanese craftsmanship**. Turns out, "finding yourself" sometimes means finding joy and love from building and appreciating beauty and elegant things.
-
-I still build furniture on the side. Beauty and elegance aren't just for software (huh!).
+I spent time in Japan studying woodworking and traditional craftsmanship — learning how much care goes into something built to last. It changed how I think about product: the same obsession with detail, materials, and how a thing feels in someone's hands. I still build furniture on the side — turns out beauty and elegance aren't just for software.
 
 ### 🛠️ Tech toolbox
 
